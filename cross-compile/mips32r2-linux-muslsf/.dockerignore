@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!build-in-container.sh
+!.cache/
+.cache/*
+!.cache/toolchain.tgz
+!.cache/source.tar
